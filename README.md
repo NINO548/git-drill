@@ -1,3 +1,1 @@
-# git-drill
-
-This is the training for git stuff
+# git-drill by JUNO
